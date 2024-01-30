@@ -1,10 +1,11 @@
 ### Hi there 👋
 ### I'm Wei
 
-Links:
-Portfolio:
-Linked In:
+##Links
+**Portfolio:** \
+**Linked In:** \
+**Resume:** \
 
-Hobbies:
-Instagram:
-Youtube:
+##Hobbies:\
+**Instagram:**\
+**Youtube:** \
