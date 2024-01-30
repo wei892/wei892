@@ -4,8 +4,8 @@
 ## Links\
 **Portfolio:** \
 **Linked In:** \
-**Resume:** \
+**Resume:** 
 
-## Hobbies:\
+## Hobbies: \
 **Instagram:**\
-**Youtube:** \
+**Youtube:** 
