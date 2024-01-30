@@ -6,6 +6,6 @@
 **Linked In:** \
 **Resume:** \
 
-##Hobbies:\
+## Hobbies:\
 **Instagram:**\
 **Youtube:** \
