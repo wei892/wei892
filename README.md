@@ -1,2 +1,10 @@
 ### Hi there 👋
-### I'm Mimi
+### I'm Wei
+
+Links:
+Portfolio:
+Linked In:
+
+Hobbies:
+Instagram:
+Youtube:
