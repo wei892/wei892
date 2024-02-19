@@ -14,8 +14,8 @@ I am a computer science student at Hunter College with a minor in Mathematics. <
 ![](https://github-readme-stats.vercel.app/api?username=wei892&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=wei892&icon=7&color=10)](https://visitcount.itsvg.in)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=wei892&theme=dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Hobbies: \
+## Hobbies:
 [Instagram](https://www.instagram.com/memoli.store/) 
